@@ -2,7 +2,7 @@
 
 ### `$ whoami`
 
-My name is Igor. I'm a Principal Software Engineer at [Checkbox](https://checkbox.ru) responsible for our Backend and Infrastructure.
+My name is Igor. I'm a Principal Software Engineer at [Checkbox](https://чекбокс.рф) responsible for our Backend and Infrastructure.
 
 My primary ❤ tech stack: Kubernetes, Golang, Cloud-Native.
 
