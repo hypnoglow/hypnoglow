@@ -2,18 +2,16 @@
 
 ### `$ whoami`
 
-My name is Igor. I'm a Principal Software Engineer at [Checkbox](https://чекбокс.рф) responsible for our Backend and Infrastructure.
+My name is Igor. I'm a Lead Software Engineer at [Checkbox](https://чекбокс.рф), last-mile delivery startup, responsible for our backend and infrastructure.
 
-My primary ❤ tech stack: Kubernetes, Golang, Cloud-Native.
+I enjoy meeting new people, constantly gaining knowledge, participating in community, and attending conferences and meetups.
 
-I enjoy meeting new people, constantly learning new stuff, studying courses, participating in community and attending conferences & meetups.
+My current ❤ tech stack: Golang, Kubernetes, Cloud Native.
 
 I hold some certifications:
 
-[![cka](images/cka.png)](https://www.youracclaim.com/badges/6fe47303-f268-40f8-9b31-2e66b12c86c8/public_url)
-[![lfcs](images/lfcs.png)](https://www.youracclaim.com/badges/75a251f6-c390-4a49-a5ba-002e72fc4631/public_url)
-
-*(click an image to view)*
+- <a href="https://www.youracclaim.com/badges/6fe47303-f268-40f8-9b31-2e66b12c86c8/public_url"><img src="images/cka.png" width="16" alt="CKA">&nbsp;CKA: Certified Kubernetes Administrator</a>
+- <a href="https://www.youracclaim.com/badges/75a251f6-c390-4a49-a5ba-002e72fc4631/public_url"><img src="images/lfcs.png" width="16" alt="LFCS">&nbsp;LFCS: Linux Foundation Certified Systems Administrator</a>
 
 ### `$ whereis`
 
