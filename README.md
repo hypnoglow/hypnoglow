@@ -2,7 +2,7 @@
 
 ### `$ whoami`
 
-My name is Igor. I'm a Lead Software Engineer at [Checkbox](https://чекбокс.рф), last-mile delivery startup, responsible for our backend and infrastructure.
+My name is Igor. I'm a Lead Software Engineer at [Checkbox](https://checkbox.ru/), last-mile delivery startup, responsible for our backend and infrastructure.
 
 I enjoy meeting new people, constantly gaining knowledge, participating in community, and attending conferences and meetups.
 
