@@ -8,14 +8,7 @@ participating in the community, attending conferences and meetups.
 
 ### `$ which`
 
-<style>
-.certs {
-  list-style: none; 
-  padding-left: 0;
-  margin: 10px 0;
-}
-</style>
-<ul class="certs">
+<ul style="list-style: none; padding-left: 0; margin: 10px 0;">
 <li><a href="https://www.youracclaim.com/badges/6fe47303-f268-40f8-9b31-2e66b12c86c8/public_url"><img src="images/cka.png" width="16" alt="CKA">&nbsp;CKA: Certified Kubernetes Administrator</a></li>
 <li><a href="https://www.youracclaim.com/badges/75a251f6-c390-4a49-a5ba-002e72fc4631/public_url"><img src="images/lfcs.png" width="16" alt="LFCS">&nbsp;LFCS: Linux Foundation Certified Systems Administrator</a></li>
 </ul>
