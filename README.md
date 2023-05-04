@@ -2,19 +2,27 @@
 
 ### `$ whoami`
 
-My name is Igor. I'm a Lead Software Engineer at [Checkbox](https://checkbox.ru/), last-mile delivery startup, responsible for our backend and infrastructure.
+My name is Igor. I enjoy building great products using cutting-edge tech, meeting
+new people, exchanging ideas, sharing experience, constantly gaining knowledge,
+participating in the community, attending conferences and meetups.
 
-I enjoy meeting new people, constantly gaining knowledge, participating in community, and attending conferences and meetups.
+### `$ which`
 
-My current ❤ tech stack: Golang, Kubernetes, Cloud Native.
+<style>
+.certs {
+  list-style: none; 
+  padding-left: 0;
+  margin: 10px 0;
+}
+</style>
+<ul class="certs">
+<li><a href="https://www.youracclaim.com/badges/6fe47303-f268-40f8-9b31-2e66b12c86c8/public_url"><img src="images/cka.png" width="16" alt="CKA">&nbsp;CKA: Certified Kubernetes Administrator</a></li>
+<li><a href="https://www.youracclaim.com/badges/75a251f6-c390-4a49-a5ba-002e72fc4631/public_url"><img src="images/lfcs.png" width="16" alt="LFCS">&nbsp;LFCS: Linux Foundation Certified Systems Administrator</a></li>
+</ul>
 
-I hold some certifications:
+[![My Skills](https://skillicons.dev/icons?perline=8&i=go,bash,js,py,linux,git,gitlab,docker,kubernetes,gcp,aws,prometheus,grafana,postgres,kafka,redis)](https://skillicons.dev)
 
-- <a href="https://www.youracclaim.com/badges/6fe47303-f268-40f8-9b31-2e66b12c86c8/public_url"><img src="images/cka.png" width="16" alt="CKA">&nbsp;CKA: Certified Kubernetes Administrator</a>
-- <a href="https://www.youracclaim.com/badges/75a251f6-c390-4a49-a5ba-002e72fc4631/public_url"><img src="images/lfcs.png" width="16" alt="LFCS">&nbsp;LFCS: Linux Foundation Certified Systems Administrator</a>
-
-### `$ whereis`
-
-[![github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/hypnoglow)&nbsp;
-[![twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/hypnoglow)&nbsp;
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-zibarev)&nbsp;
+<details>
+  <summary>⚡️ GitHub Stats</summary>
+  <img align="left" alt="hypnoglow's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hypnoglow&count_private=true&include_all_commits=true&hide=contribs&show_icons=true&theme=graywhite&custom_title=Igor%27s%20Github%20Stats" />
+</details>
